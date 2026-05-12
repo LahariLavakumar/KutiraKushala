@@ -45,7 +45,7 @@ KutiraKushala/
 4. The same **Firestore database** and **`firestore.rules`** are used — no changes needed on the backend
 
 ### 2. Gemini API Key
-In `local.properties` (create from `local.properties.example`):
+In `local.properties` (create from `local.properties.example`)
 ```
 GEMINI_API_KEY=your_key_here
 ```
