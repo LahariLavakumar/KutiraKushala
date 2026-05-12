@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084687678953",
+    "project_id": "glassy-augury-490608-a4",
+    "storage_bucket": "glassy-augury-490608-a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084687678953:android:a5104bee903420e8f39f78",
+        "android_client_info": {
+          "package_name": "com.kutira.kushala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084687678953-v8b90fofg80lmj7kgn3hb8h4ukps1um5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYmVjYWl7WJAN0G3vJ-2lBiO3qRvkuLBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084687678953-v8b90fofg80lmj7kgn3hb8h4ukps1um5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
